@@ -8,7 +8,9 @@ I tried using Vite.
 
 * [DEMO](https://ytyaru.github.io/NoBundler.Vite.Setting.HelloWorld.20220406102234/)
 
-[f:id:ytyaru:20220405125949p:plain]
+![img][]
+
+[img]:https://cdn-ak.f.st-hatena.com/images/fotolife/y/ytyaru/20220405/20220405125949.png
 
 # Requirement
 
